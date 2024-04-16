@@ -16,11 +16,11 @@
    
    
 <p align="center">
-   <a href="https://github.com/haronrazor/༎Illı HARON Illı༎/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/༎Illı HARON Illı༎?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
+    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/༎Illı HARON Illı༎/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/༎Illı HARON Illı༎?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
+     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
